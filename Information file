@@ -1,0 +1,6 @@
+Order Management Application for Canteen Jan - May 2019
+Course: Software Production Engineering Guide: Prof. Thangaraju B
+• Created android application to manage orders from students. Our main aim was to
+manage all development phases using DevOps tools viz Git for source code manage-
+ment, Jenkins for continuous integration, Junit for unit testing, Go-release for contin-
+uous deployment on git and ELK stack for continuous monitoring.
